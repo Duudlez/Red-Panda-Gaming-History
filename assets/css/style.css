@@ -150,3 +150,29 @@ footer {
 .contact-info a:hover {
     color: #1E90FF;
 }
+
+.social-media {
+    font-size: large;
+    font-weight: 800;
+    width: 100%;
+    justify-content: center;
+}
+
+.social-media p {
+    color: #1E90FF;
+}
+
+.social-media i {
+    color: white;
+    font-size: 180%;
+    margin: 1% 2%;
+    padding: 0 2%;
+}
+
+.social-media i:hover {
+    color: #1E90FF;
+}
+
+.social-media li {
+    display: inline;
+}
