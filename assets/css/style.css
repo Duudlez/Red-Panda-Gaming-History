@@ -29,3 +29,10 @@ ul {
     list-style: none;
     padding: 0;
 }
+
+/* Hero Image */
+
+.hero-image img{
+    height: auto;
+    width: 100%;
+}
