@@ -18,7 +18,7 @@ h3 {
 }
 
 p {
-    text-align: center;
+    text-align: left;
 }
 
 .text-center {
@@ -30,11 +30,13 @@ ul {
     padding: 0;
 }
 
+
 /* Hero Image */
 
-.hero-image img{
-    height: auto;
+#hero-image img{
+    height: auto;  
     width: 100%;
+    
 }
 
 /* Header Logo and Navbar */
@@ -86,6 +88,7 @@ nav ul {
     color: #1E90FF;
     font-weight: 800;
 }
+
 
 /* Contact Form */
 
@@ -195,6 +198,7 @@ footer {
     nav li {
         display: inline-block;
     }
+
 }
 
 @media only screen and (min-width: 800px) {
