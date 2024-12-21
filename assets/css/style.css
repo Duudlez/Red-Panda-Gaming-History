@@ -180,6 +180,20 @@ footer {
     display: inline;
 }
 
+/* Screenshot Page */
+
+.column {
+    float: left;
+    width: 24%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 /* 404 Page */
 
 .return-to-home a {
