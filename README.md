@@ -25,3 +25,10 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
      * The 404 page will allow the user to easily navigate back to the main website if they direct to a broken link / missing page, without the need of the browsers back button.
 
 ![404](docs/readme-images/404-page.png)
+
+### Landing Page
+* Landing page image
+     * This will be an image of a Red Panda sitting at a pc.
+     * This will show the user that the Website is about pc's and gaming.
+
+![Landing Page Image](docs/readme-images/landing-page.png)
