@@ -36,10 +36,10 @@ hr {
 
 /* Hero Image */
 
-#hero-image img{
-    height: auto;  
+#hero-image img {
+    height: auto;
     width: 100%;
-    
+
 }
 
 /* Header Logo and Navbar */
@@ -246,7 +246,7 @@ footer {
     .text-left {
         padding-left: 5px;
     }
-    
+
     .text-right {
         text-align: left;
         padding-left: 5px;
@@ -255,9 +255,10 @@ footer {
 
 @media screen and (max-width: 500px) {
     .column {
-      width: 100%;
-    } 
+        width: 100%;
+    }
 }
+
 
 @media only screen and (min-width: 600px) {
 
@@ -268,8 +269,9 @@ footer {
 }
 
 @media screen and (min-width: 700px) {
+
     .column {
-      width: 32%;
+        width: 32%;
     }
 
     .img1 {
@@ -278,14 +280,14 @@ footer {
         float: left;
         margin-right: 10px;
     }
-    
+
     .img2 {
         width: 37%;
         height: 100%;
         float: right;
         margin-left: 10px;
     }
-  }
+}
 
 @media only screen and (min-width: 800px) {
 
@@ -323,7 +325,7 @@ footer {
         float: left;
         margin-right: 10px;
     }
-    
+
     .img2 {
         width: 26%;
         height: 100%;
@@ -334,9 +336,10 @@ footer {
 
 
 @media only screen and (min-width: 1440px) {
+
     .column {
-      width: 24%;
-      margin-left: 4px;
+        width: 24%;
+        margin-left: 4px;
     }
 
     .img1 {
@@ -345,7 +348,7 @@ footer {
         float: left;
         margin-right: 10px;
     }
-    
+
     .img2 {
         width: 16%;
         height: 100%;
@@ -356,25 +359,25 @@ footer {
     .text-left {
         padding-left: 5px;
     }
-    
+
     .text-right {
         text-align: right;
         padding-right: 5px;
     }
-  }
+}
 
-  @media only screen and (min-width: 2500px) {
+@media only screen and (min-width: 2500px) {
 
     .column {
         margin-left: 11px;
-      }
+    }
 
     .text-left {
         padding-left: 5px;
         font-size: 20px;
         padding-bottom: 5px;
     }
-    
+
     .text-right {
         text-align: right;
         padding-right: 5px;
@@ -388,7 +391,7 @@ footer {
         float: left;
         margin-right: 10px;
     }
-    
+
     .img2 {
         width: 7.5%;
         height: 100%;
@@ -401,4 +404,4 @@ footer {
         width: 70%;
         padding-left: 400px;
     }
-  }
+}
