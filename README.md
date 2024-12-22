@@ -51,3 +51,10 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
 ![Contact Form](docs/readme-images/Contact-Form.png)
 
 ![Contact Form Received](docs/readme-images/contact-form-received.png)
+
+### Screenshots
+* Screenshots
+     * The screenshots section will provide the user with a small selection of Screenshots made by Red Panda and his Friends.
+     * These screenshots show a few games Red Panda and his friends have played.
+
+![Screenshots](docs/readme-images/screenshots.png)
