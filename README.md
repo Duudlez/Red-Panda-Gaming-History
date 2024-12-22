@@ -10,3 +10,8 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
      * This will allow users to easily navigate between the pages on any size device.
 
 ![Nav Menu](docs/readme-images/Navbar.png)
+* Footer
+     * This will contain icons as links to social media websites that will open in new tabs. Icons will be accessible to the visually impaired who may be using a screen reader.
+     * This will allow users to follow Red Panda Gaming History on various social media where they can stay up to date with Video Games.
+
+![Footer](docs/readme-images/Footer.png)
