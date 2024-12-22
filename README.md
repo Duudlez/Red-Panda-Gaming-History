@@ -15,3 +15,8 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
      * This will allow users to follow Red Panda Gaming History on various social media where they can stay up to date with Video Games.
 
 ![Footer](docs/readme-images/Footer.png)
+* Favicon
+     * A site wide red panda favicon will be implemented.
+     * This will provide an image in the tabs header to allow the user to easily identify the website if they have multiple tabs open.
+
+![Favicon](docs/readme-images/Favicon-readme.png)
