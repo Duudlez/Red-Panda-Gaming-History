@@ -33,6 +33,12 @@ hr {
     border-bottom: 2px solid black;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 
 /* Hero Image */
 
