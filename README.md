@@ -32,3 +32,7 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
      * This will show the user that the Website is about pc's and gaming.
 
 ![Landing Page Image](docs/readme-images/landing-page.png)
+* Website information on 'Red Panda'
+     * Information about 'Red Panda' and the websites purpose.
+     * This information let's the user know what the site is about.
+
