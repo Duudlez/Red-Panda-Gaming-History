@@ -20,3 +20,8 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
      * This will provide an image in the tabs header to allow the user to easily identify the website if they have multiple tabs open.
 
 ![Favicon](docs/readme-images/Favicon-readme.png)
+* 404 Page
+     * A 404 page will be implemented and will display if a user navigates to a broken link.
+     * The 404 page will allow the user to easily navigate back to the main website if they direct to a broken link / missing page, without the need of the browsers back button.
+
+![404](docs/readme-images/404-page.png)
