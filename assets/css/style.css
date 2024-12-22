@@ -33,6 +33,10 @@ ul {
     padding: 0;
 }
 
+hr {
+    border-bottom: 2px solid black;
+}
+
 
 /* Hero Image */
 
@@ -333,6 +337,19 @@ footer {
   }
 
   @media only screen and (min-width: 2500px) {
+
+    .text-left {
+        padding-left: 5px;
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+    
+    .text-right {
+        text-align: right;
+        padding-right: 5px;
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
 
     .img1 {
         width: 7.5%;
