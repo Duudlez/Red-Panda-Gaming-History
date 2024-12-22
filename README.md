@@ -5,8 +5,8 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
 ## Features
 
 ### Site wide
-*Navigation Menu
-     *Contains links to  the Home, Gaming-History and Screenshots pages and will be responsive on all devices.
-     *This will allow users to easily navigate between the pages on any size device.
+* Navigation Menu
+     * Contains links to  the Home, Gaming-History and Screenshots pages and will be responsive on all devices.
+     * This will allow users to easily navigate between the pages on any size device.
 
 ![Nav Menu](docs/readme-images/Navbar.png)
