@@ -58,3 +58,20 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
      * These screenshots show a few games Red Panda and his friends have played.
 
 ![Screenshots](docs/readme-images/screenshots.png)
+<br><br><br><br>
+
+
+## Technologies
+
+* HTML
+     * The structure of the Website was developed using HTML as the main language.
+* CSS 
+     * The website was styled using custom CSS in an external file.
+* GitHub
+     * Used as IDE and used to commit and push code during the developement of the Website.
+* Font Awesome
+     * Icons obtained from https://fontawesome.com/ were used to create the Social links in the footer.
+* jpg2avif
+     * https://jpg2avif.com/ was used to reduce the size of images used on the website
+* Faicon.io
+     * favicon files were created at https://favicon.io/favicon-converter/
