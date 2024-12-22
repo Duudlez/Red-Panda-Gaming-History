@@ -36,3 +36,15 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
      * Information about 'Red Panda' and the websites purpose.
      * This information let's the user know what the site is about.
 
+* Contact form
+     * A contact form will be implemented to allow users to contact 'Red Panda'. The form will consist of the following fields and attributes:
+          * First Name (required, type=text)
+          * Last Name (required, type=text)
+          * Email (required, type=email)
+          * Message (required, type=textarea)
+    * On successful submission of the contact form, the user will be navigated to contact.html displaying a success message.
+    * This will allow the user to contact 'Red Panda' if they have any questions or suggestions about Gaming History.
+
+![Contact Form](docs/readme-images/Contact-Form.png)
+
+![Contact Form Received](docs/readme-images/contact-form-received.png)
