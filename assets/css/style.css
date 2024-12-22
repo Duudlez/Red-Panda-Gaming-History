@@ -406,3 +406,21 @@ footer {
         padding-left: 400px;
     }
   }
+
+  @media (max-width: 1024px) {
+    .column {
+        width:32%
+    }
+  }
+
+  @media (max-width: 768px) {
+    .column {
+        width: 48%;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .column {
+        width: 100%;
+    }
+  }
