@@ -31,12 +31,13 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
      * This will be an image of a Red Panda sitting at a pc.
      * This will show the user that the Website is about pc's and gaming.
 
-![Bio](docs/readme-images/About-me.png)
 
 ![Landing Page Image](docs/readme-images/landing-page.png)
 * Website information on 'Red Panda'
      * Information about 'Red Panda' and the websites purpose.
      * This information let's the user know what the site is about.
+
+![Bio](docs/readme-images/About-me.png)
 
 * Contact form
      * A contact form will be implemented to allow users to contact 'Red Panda'. The form will consist of the following fields and attributes:
