@@ -111,7 +111,7 @@ Testing was focused to ensure the following criteria were met:
 
 ![Contact HTML Validator Results](docs/testing/validator-testing-contact.png)
 
-![Gaming-History HTML Validator Results](docs/testing/validator-testing-gaming-history.png.JPG)
+![Gaming-History HTML Validator Results](docs/testing/validator-testing-gaming-history.png)
 
 ![Home HTML Validator Results](docs/testing/validator-testing-index.png)
 
