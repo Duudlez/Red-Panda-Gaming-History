@@ -224,7 +224,7 @@ footer {
 
 .column {
     float: left;
-    width: 24%;
+    width: 100%;
     padding: 2px;
 }
 
@@ -247,14 +247,6 @@ footer {
 
 /* Media Queries */
 
-@media only screen and (max-width: 600px) {
-
-    .column {
-        float: left;
-        width: 100%;
-    }
-}
-
 
 @media only screen and (min-width: 600px) {
 
@@ -264,7 +256,7 @@ footer {
 
     .column {
         float: left;
-        width: 100%;
+        max-width: 49%;
     }
 
 }
@@ -299,7 +291,7 @@ footer {
 
     .column {
         float: left;
-        width: 49%;
+        width: 24%;
     }
 
 }
@@ -311,10 +303,4 @@ footer {
         width: 70%;
         padding-left: 400px;
     }
-
-    .column {
-        float: left;
-        width: 24%;
-        padding-left: 15px;
     }
-}
