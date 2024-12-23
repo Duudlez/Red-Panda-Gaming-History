@@ -123,3 +123,17 @@ Testing was focused to ensure the following criteria were met:
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
 
 ![CSS Validator Results](docs/testing/css-validator.png)
+
+## Deployment
+
+### Version Control
+
+The site was created using the Visual Studio code editor and pushed to github to the remote repository ‘Red-Panda-Gaming-History’.
+
+The following git commands were used throughout development to push code to the remote repo:
+
+```git add <file>``` - This command was used to add the file(s) to the staging area before they are committed.
+
+```git commit -m “commit message”``` - This command was used to commit changes to the local repository queue ready for the final step.
+
+```git push``` - This command was used to push all committed code to the remote repository on github.
