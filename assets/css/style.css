@@ -33,6 +33,12 @@ hr {
     border-bottom: 2px solid black;
 }
 
+img {
+    transition: 0.5s;
+    transform: scale(1);
+    opacity: 1;
+    position: relative;
+}
 
 
 /* Hero Image */
@@ -303,4 +309,4 @@ footer {
         width: 70%;
         padding-left: 400px;
     }
-    }
+}
