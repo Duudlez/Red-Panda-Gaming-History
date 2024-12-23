@@ -319,14 +319,14 @@ footer {
 @media only screen and (min-width: 1000px) {
 
     .img1 {
-        width: 26%;
+        width: 25%;
         height: 100%;
         float: left;
         margin-right: 10px;
     }
 
     .img2 {
-        width: 26%;
+        width: 25%;
         height: 100%;
         float: right;
         margin-left: 10px;
