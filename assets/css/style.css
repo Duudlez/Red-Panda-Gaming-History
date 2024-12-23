@@ -241,30 +241,6 @@ footer {
 
 /* Media Queries */
 
-@media screen and (min-width: 300px) {
-
-    .text-left {
-        padding-left: 5px;
-    }
-
-    .text-right {
-        text-align: left;
-        padding-left: 5px;
-    }
-}
-
-@media screen and (max-width: 500px) {
-    .column {
-        width: 100%;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    .column {
-        width: 100%;
-    }
-}
-
 
 @media only screen and (min-width: 600px) {
 
@@ -274,26 +250,6 @@ footer {
 
 }
 
-@media screen and (min-width: 700px) {
-
-    .column {
-        width: 32%;
-    }
-
-    .img1 {
-        width: 37%;
-        height: 100%;
-        float: left;
-        margin-right: 10px;
-    }
-
-    .img2 {
-        width: 37%;
-        height: 100%;
-        float: right;
-        margin-left: 10px;
-    }
-}
 
 @media only screen and (min-width: 800px) {
 
@@ -323,91 +279,12 @@ footer {
     }
 }
 
-@media only screen and (min-width: 1000px) {
-
-    .img1 {
-        width: 25%;
-        height: 100%;
-        float: left;
-        margin-right: 10px;
-    }
-
-    .img2 {
-        width: 25%;
-        height: 100%;
-        float: right;
-        margin-left: 10px;
-    }
-}
-
-
-@media only screen and (min-width: 1440px) {
-
-    .column {
-        width: 24%;
-        margin-left: 4px;
-    }
-
-    .img1 {
-        width: 16%;
-        height: 100%;
-        float: left;
-        margin-right: 10px;
-    }
-
-    .img2 {
-        width: 16%;
-        height: 100%;
-        float: right;
-        margin-left: 10px;
-    }
-
-    .text-left {
-        padding-left: 5px;
-    }
-
-    .text-right {
-        text-align: right;
-        padding-right: 5px;
-    }
-}
-
 @media only screen and (min-width: 2500px) {
-
-    .column {
-        margin-left: 11px;
-    }
-
-    .text-left {
-        padding-left: 5px;
-        font-size: 20px;
-        padding-bottom: 5px;
-    }
-
-    .text-right {
-        text-align: right;
-        padding-right: 5px;
-        font-size: 20px;
-        padding-bottom: 5px;
-    }
-
-    .img1 {
-        width: 7.5%;
-        height: 100%;
-        float: left;
-        margin-right: 10px;
-    }
-
-    .img2 {
-        width: 7.5%;
-        height: 100%;
-        float: right;
-        margin-left: 10px;
-    }
 
     #hero-image {
         height: auto;
         width: 70%;
         padding-left: 400px;
     }
+
 }
