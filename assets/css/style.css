@@ -253,20 +253,6 @@ footer {
         float: left;
         width: 100%;
     }
-
-    .img1 {
-        width: 100%;
-        height: auto;
-        float: left;
-        margin-right: 10px;
-    }
-    
-    .img2 {
-        width: 100%;
-        height: auto;
-        float: right;
-        margin-left: 10px;
-    }
 }
 
 
@@ -316,37 +302,6 @@ footer {
         width: 49%;
     }
 
-    .img1 {
-        width: 40%;
-        height: auto;
-        float: left;
-        margin-right: 10px;
-    }
-    
-    .img2 {
-        width: 39%;
-        height: auto;
-        float: right;
-        margin-left: 10px;
-    }
-}
-
-@media only screen and (min-width: 992px) {
-    
-    .img1 {
-        width: 25%;
-        height: auto;
-        float: left;
-        margin-right: 10px;
-    }
-    
-    .img2 {
-        width: 25%;
-        height: auto;
-        float: right;
-        margin-left: 10px;
-    }
-
 }
 
 @media only screen and (min-width: 2500px) {
@@ -362,19 +317,4 @@ footer {
         width: 24%;
         padding-left: 15px;
     }
-
-    .img1 {
-        width: 8%;
-        height: auto;
-        float: left;
-        margin-right: 10px;
-    }
-    
-    .img2 {
-        width: 8%;
-        height: auto;
-        float: right;
-        margin-left: 10px;
-    }
-
 }
