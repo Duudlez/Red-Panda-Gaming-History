@@ -75,3 +75,16 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
      * https://jpg2avif.com/ was used to reduce the size of images used on the website
 * Faicon.io
      * favicon files were created at https://favicon.io/favicon-converter/
+
+
+## Testing
+
+### Responsiveness
+
+All pages were tested to ensure responsiveness on screen sizes from 320px and upwards.
+
+Steps to test:
+
+1. Open Browser an navigate to [Red Panda Gaming History](https://duudlez.github.io/Red-Panda-Gaming-History/)
+2. Open the developer tools (right click and inspect)
+3. Switched screen sizes Mobile S, Mobile M, Mobile L, Tablet, Laptop, Laptop L and 4k.
