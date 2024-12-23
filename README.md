@@ -103,3 +103,23 @@ Testing was focused to ensure the following criteria were met:
 - HTML page lang attribute has been set
 - Aria properties have been implemented correctly
 - WCAG 2.1 Coding best practices being followed
+
+### Validator Testing
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
+
+![Contact HTML Validator Results](docs/testing/validator-testing-contact.png)
+
+![Gaming History HTML Validator Results](docs/testing/validator-testing-gaming-history.png.JPG)
+
+![Home HTML Validator Results](docs/testing/validator-testing-index.png)
+
+![Screenshots HTML Validator Results](docs/testing/validator-testing-screenshots.png)
+
+![404 HTML Validator Results](docs/testing/validator-testing-404.png)
+
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
+
+![CSS Validator Results](docs/testing/css-validator.png)
