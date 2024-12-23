@@ -160,3 +160,9 @@ Navigate to the GitHub Repository you want to clone to use locally:
 - Type git clone copied-git-url into the IDE terminal
 
 The project will now of been cloned on your local machine for use.
+
+## Credits
+
+* Some Screenshots used are from a Friend. Permission was granted to use them on my Website.
+* [Microsoft Designer](https://designer.microsoft.com/)
+     * Favicon, Hero Image and Pictures on the Gaming History site were created using Microsoft Designer.
