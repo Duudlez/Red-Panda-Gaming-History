@@ -114,6 +114,14 @@ Testing was focused to ensure the following criteria were met:
 - Aria properties have been implemented correctly
 - WCAG 2.1 Coding best practices being followed
 
+### Lighthouse Testing
+
+![Home](docs/readme-images/index-lighthouse.png)
+
+![Screenshots](docs/readme-images/screenshots-lighthouse.png)
+
+![Gaming-History](docs/readme-images/gaming-history-lighthouse.png)
+
 ### Validator Testing
 
 - HTML
