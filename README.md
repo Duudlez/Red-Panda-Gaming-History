@@ -122,6 +122,161 @@ Testing was focused to ensure the following criteria were met:
 
 ![Gaming-History](docs/readme-images/gaming-history-lighthouse.png)
 
+### Functional Testing
+
+**Navigation Links**
+
+Testing was performed to ensure all navigation links on the respective pages navigated to the correct pages as per design. This was done by clicking on the naviigation links on each page.
+
+| Navigation Link | Page to Load        |
+| --------------- | ------------------- |
+| Home            | index.html          |
+| Gaming History  | gaming-history.html |
+| Screenshots     | gscreenshots.html   |
+
+Links on all pages navigated to the correct pages as expected.
+
+**Form Testing**
+
+The form on the home page was tested to ensure it funtioned as exected when correct data was input an when incorrect data was input. The following scenarios were covered:
+
+_Scenario One - Correct Inputs_
+
+Steps to test:
+
+1. Navigate to [Red Panda Gaming History - Home Page](https://duudlez.github.io/Red-Panda-Gaming-History/)
+2. Scroll down to the form and input the following data:
+   - First Name: John
+   - Last Name: Doe
+   - Email: john.doe@test.de
+   - Comment: This is a test.
+3. Click Submit
+4. User should be redirected to contact.html confirmation page
+
+Expected: 
+
+Form submits with no warnings or errors and user is redirected to contact.html confirmation page.
+
+Actual:
+
+Website behaved as expected with no error or warnings and redirected to contact.html confirmation page.
+
+_Scenario Two - Missing Required Field First Name_
+
+Steps to test:
+
+1. Navigate to [Red Panda Gaming History - Home Page](https://duudlez.github.io/Red-Panda-Gaming-History/)
+2. Scroll down to the form and input the following data:
+   - First Name:
+   - Last Name: Doe
+   - Email: john.doe@test.de
+   - Comment: This is a test.
+3. Click Submit
+
+Expected:
+
+The form does not submit and an Error is displayed to tell the user that the field is required.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+_Scenario Three - Missing Required Field Last Name_
+
+Steps to test:
+
+1. Navigate to [Red Panda Gaming History - Home Page](https://duudlez.github.io/Red-Panda-Gaming-History/)
+2. Scroll down to the form and input the following data:
+   - First Name:John
+   - Last Name:
+   - Email: john.doe@test.de
+   - Comment: This is a test.
+3. Click Submit
+
+Expected:
+
+The form does not submit and an Error is displayed to tell the user that the field is required.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+_Scenario Four - Missing Required Field Email_
+
+Steps to test:
+
+1. Navigate to [Red Panda Gaming History - Home Page](https://duudlez.github.io/Red-Panda-Gaming-History/)
+2. Scroll down to the form and input the following data:
+   - First Name:John
+   - Last Name: Doe
+   - Email:
+   - Comment: This is a test.
+3. Click Submit
+
+Expected:
+
+The form does not submit and an Error is displayed to tell the user that the field is required.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+_Scenario Five - Incorrect email format_
+
+Steps to test:
+
+1. Navigate to [Red Panda Gaming History - Home Page](https://duudlez.github.io/Red-Panda-Gaming-History/)
+2. Scroll down to the form and input the following data:
+   - First Name:John
+   - Last Name: Doe
+   - Email: john.doetest.de
+   - Comment: This is a test.
+3. Click Submit
+
+Expected:
+
+The form does not submit and an Error is displayed to tell the user that a valid email is required and the format it should be in.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+**Footer Social Media Icons / Links**
+
+Testing was performed on the Font Awesome Social Media icons in the footer to ensure that each one opened in a new tab and that each one had a hover affect of the orange branding color.
+
+Each item opened a new tab when clicked as expected and correct hover color was present.
+
+**Footer Contact Information**
+
+Testing was performed on the phone number in the contact information section of the footer to ensure behaviour was as expected.
+
+_Steps to test Telephone Number_
+
+1. Navigate to [Red Panda Gaming History - Home Page](https://duudlez.github.io/Red-Panda-Gaming-History/)
+2. Click the phone number in the footer (00 123 456 789)
+
+Expected:
+
+A window is opened asking which device you would like to call from.
+
+Actual:
+
+Behavior was as expected and the window presented me with the option to call.
+
+_Steps to test Email Link_
+
+1. Navigate to [Red Panda Gaming History - Home Page](https://duudlez.github.io/Red-Panda-Gaming-History/)
+2. Click the email address in the footer (rpgh@gmail.com)
+
+Expected:
+
+A windows popup is displayed asking what application you would like to send a mail from or your default email application is opened.
+
+Actual:
+
+Behavior was as expected and my outlook application was opened ready to send an email to the target address.
+
 ### Validator Testing
 
 - HTML
