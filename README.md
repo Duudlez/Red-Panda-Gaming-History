@@ -339,3 +339,4 @@ The project will now of been cloned on your local machine for use.
 * Some Screenshots used are from a Friend. Permission was granted to use them on my Website.
 * [Microsoft Designer](https://designer.microsoft.com/)
      * Favicon, Hero Image and Pictures on the Gaming History site were created using Microsoft Designer.
+* My Mentor Gareth McGirr. Took inspiration from his Website and used most of his readme. [Gareth-McGirr](https://github.com/Gareth-McGirr/tacos-travels/tree/main)
