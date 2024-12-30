@@ -71,8 +71,8 @@ Red Panda Gaming History is a website that brings some gaming knowledge to you. 
      * Used as IDE and used to commit and push code during the developement of the Website.
 * Font Awesome
      * Icons obtained from https://fontawesome.com/ were used to create the Social links in the footer.
-* jpg2avif
-     * https://jpg2avif.com/ was used to reduce the size of images used on the website
+* 11zon
+     * (https://www.11zon.com/) was used to reduce the size of images used on the website
 * Faicon.io
      * favicon files were created at https://favicon.io/favicon-converter/
 
@@ -87,7 +87,17 @@ Steps to test:
 
 1. Open Browser an navigate to [Red Panda Gaming History](https://duudlez.github.io/Red-Panda-Gaming-History/)
 2. Open the developer tools (right click and inspect)
-3. Switched screen sizes Mobile S, Mobile M, Mobile L, Tablet, Laptop, Laptop L and 4k.
+3. Set to responsive and decrese width to 320px
+4. Set the zoom to 50%
+5. Click and drag the responsive window to maximum width
+
+Expected:
+
+Website is responsive on all screen sizes and no images are pixelated or stretched. No horizontal scroll is present. No elements Overlap.
+
+Actual:
+
+Website behaved as expected.
 
 ### Accessibility
 
