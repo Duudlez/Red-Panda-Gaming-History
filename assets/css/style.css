@@ -258,8 +258,6 @@ footer {
 /* Media Queries */
 
 
-
-
 @media only screen and (min-width: 600px) {
 
     nav li {
@@ -312,7 +310,7 @@ footer {
         float: left;
         margin-right: 10px;
     }
-    
+
     .img2 {
         width: 51%;
         height: auto;
@@ -330,7 +328,7 @@ footer {
         float: left;
         margin-right: 10px;
     }
-    
+
     .img2 {
         width: 33%;
         height: auto;
@@ -348,7 +346,7 @@ footer {
         float: left;
         margin-right: 10px;
     }
-    
+
     .img2 {
         width: 19%;
         height: auto;
@@ -371,7 +369,7 @@ footer {
         float: left;
         margin-right: 10px;
     }
-    
+
     .img2 {
         width: 10%;
         height: auto;
